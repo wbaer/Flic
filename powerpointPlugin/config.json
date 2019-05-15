@@ -1,0 +1,21 @@
+{
+	"pluginName": "Microsoft PowerPoint Remote",
+	"pluginDescription": "Remote controls for Microsoft PowerPoint",
+	"pluginReadMore": "Remote controls for Microsoft PowerPoint to advance and go back to previous slides.",
+	"protocolVersion": 1,
+	"actions":
+	[
+		{
+			"actionName": "Next",
+			"fileName": "Next.scpt",
+		},
+		{
+			"actionName": "Previous",
+			"fileName": "Previous.scpt",
+		},
+		{
+			"actionName": "Black Screen",
+			"fileName": "Black.scpt",
+		}
+	]
+}
