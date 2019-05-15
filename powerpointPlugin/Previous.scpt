@@ -8,5 +8,5 @@ tell application "System Events"
 				set slide state of slide show view of slide show window of active presentation to slide show state running
 			end if
 		end tell
-	end tell
+	end if
 end tell	
